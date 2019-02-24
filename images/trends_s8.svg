@@ -4,7 +4,7 @@
 	 viewBox="0 0 600 350" enable-background="new 0 0 600 350" xml:space="preserve">
 <ellipse fill="none" stroke="#010101" stroke-width="0.2237" stroke-linecap="round" stroke-miterlimit="10" cx="502.6" cy="221" rx="0.6" ry="0.5"/>
 <rect x="0" y="44.1" fill="none" width="600" height="45.9"/>
-<text transform="matrix(1 0 0 1 31.14 65.5097)" font-family="'ArialMT'" font-size="25px">Subject-matter familiarity a constant requirement</text>
+<text transform="matrix(1 0 0 1 31.14 65.5092)" font-family="'ArialMT'" font-size="25px">Subject-matter familiarity a constant requirement</text>
 <g>
 	<path d="M81.5,269H67.9v-16.9h8.8v4.4c0,0.2,0.1,0.3,0.3,0.3l4.6,0L81.5,269z M77.2,252.5l3.9,3.7l-3.9,0V252.5z M82,256.4
 		C82,256.4,82,256.3,82,256.4l-4.9-4.7c0,0-0.1-0.1-0.1-0.1H77h-9.3c-0.2,0-0.3,0.1-0.3,0.3v17.4c0,0.2,0.1,0.3,0.3,0.3h14.2
@@ -318,10 +318,10 @@
 		l-0.4-0.6c-0.1-0.1-0.2-0.2-0.4-0.1c-0.1,0.1-0.2,0.2-0.1,0.4L165.1,292z"/>
 </g>
 <rect x="172.4" y="164.7" fill="none" width="196" height="56.4"/>
-<text transform="matrix(1 0 0 1 172.4102 175.8629)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="13px">34% Subject-matter familiarity</tspan><tspan x="0" y="15.6" font-family="'ArialMT'" font-size="13px">24% Specialized doc type skills</tspan><tspan x="0" y="31.2" font-family="'ArialMT'" font-size="13px">17% TW-specific skills</tspan></text>
-<text transform="matrix(1 0 0 1 172.4102 144.9188)" font-family="'ArialMT'" font-size="18px">Highlights</text>
-<text transform="matrix(1 0 0 1 66.2708 146.4269)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="18px">Scope: </tspan><tspan x="0" y="14.4" font-family="'ArialMT'" font-size="12px"> </tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="12px">&lt; 2 yrs</tspan><tspan x="0" y="43.2" font-family="'ArialMT'" font-size="12px">“technical writer”</tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="12px">327 job ads</tspan></text>
-<text transform="matrix(1 0 0 1 81.679 241.742)" font-family="'ArialMT'" font-size="13px">2006</text>
+<text transform="matrix(1 0 0 1 172.4102 175.8589)"><tspan x="0" y="0" font-family="'Arial-BoldMT'" font-size="13px">34% Subject-matter familiarity</tspan><tspan x="0" y="15.6" font-family="'ArialMT'" font-size="13px">24% Specialized doc type skills</tspan><tspan x="0" y="31.2" font-family="'ArialMT'" font-size="13px">17% TW-specific skills</tspan></text>
+<text transform="matrix(1 0 0 1 172.4102 144.9183)" font-family="'ArialMT'" font-size="18px">Highlights</text>
+<text transform="matrix(1 0 0 1 66.2708 146.4265)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="18px">Scope: </tspan><tspan x="0" y="14.4" font-family="'ArialMT'" font-size="12px"> </tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="12px">&lt; 2 yrs</tspan><tspan x="0" y="43.2" font-family="'ArialMT'" font-size="12px">“technical writer”</tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="12px">327 job ads</tspan></text>
+<text transform="matrix(1 0 0 1 81.679 241.7415)" font-family="'ArialMT'" font-size="13px">2006</text>
 <path d="M426.6,131.7c-0.1,0-0.1-0.1-0.1-0.2v-2.1c0.3-0.6,0.4-1.2,0.6-1.9c0.1,0,0.1,0.1,0.2,0.1c0.3,0,0.6-0.4,1-1.7
 	c0.4-1.4,0.2-1.9-0.2-2.1c1.2-5.4-1.4-5.6-1.4-5.6s-0.4-0.7-1.4-1.2c-0.6-0.4-1.4-0.6-2.4-0.6h-0.5c-0.4,0-0.8,0.1-1.2,0.2
 	c-0.4,0.2-0.9,0.4-1.2,0.6c-0.4,0.3-0.9,0.6-1.3,1.1c-0.6,0.6-1.2,1.4-1.4,2.5c-0.3,0.9-0.2,1.8,0.1,2.8h-0.1
@@ -356,7 +356,7 @@
 	c0.7,0,1.4-0.1,2.1-0.2v-2.6c1.3-0.3,2.5-0.8,3.6-1.5l1.8,1.8c1.1-0.8,2.1-1.8,2.9-2.9l-1.8-1.8c0.7-1.1,1.2-2.3,1.5-3.6L543.3,211z
 	"/>
 <path d="M535.6,208.9c0,2.7-2.2,4.9-4.9,4.9c-2.7,0-4.9-2.2-4.9-4.9c0-2.7,2.2-4.9,4.9-4.9C533.4,204,535.6,206.2,535.6,208.9"/>
-<text transform="matrix(1 0 0 1 396.7308 205.8127)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.7086px">Generalist </tspan><tspan x="-4.8" y="12.9" font-family="'ArialMT'" font-size="10.7086px">opportunities</tspan></text>
+<text transform="matrix(1 0 0 1 396.7309 205.8127)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.7086px">Generalist </tspan><tspan x="-4.8" y="12.9" font-family="'ArialMT'" font-size="10.7086px">opportunities</tspan></text>
 <text transform="matrix(1 0 0 1 477.4379 297.7932)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.7086px">Specialist</tspan><tspan x="-7.7" y="12.9" font-family="'ArialMT'" font-size="10.7086px">opportunities</tspan></text>
 <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="543.5" y1="103.4" x2="405.7" y2="300.3"/>
 </svg>
