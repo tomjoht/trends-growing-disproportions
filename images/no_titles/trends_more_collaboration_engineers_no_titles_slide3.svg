@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 350" enable-background="new 0 0 600 350" xml:space="preserve">
+<path d="M100.3,193.5V236c0,1.9-2.1,3.5-4.7,3.5h-9.4c-2.6,0-4.7-1.6-4.7-3.5v-42.5c0-1.9,2.1-3.5,4.7-3.5h9.4
+	C98.2,190,100.3,191.6,100.3,193.5z"/>
+<path d="M125.1,191v45.8c0,1.5-2.1,2.7-4.7,2.7H111c-2.6,0-4.7-1.2-4.7-2.7V191c0-1.5,2.1-2.7,4.7-2.7h9.4
+	C123,188.3,125.1,189.5,125.1,191z"/>
+<path d="M149.9,188.7v48.5c0,1.2-2.1,2.2-4.7,2.2h-9.4c-2.6,0-4.7-1-4.7-2.2v-48.5c0-1.2,2.1-2.2,4.7-2.2h9.4
+	C147.8,186.5,149.9,187.5,149.9,188.7z"/>
+<path d="M75.4,198.8v36c0,2.6-2.1,4.7-4.7,4.7h-9.4c-2.6,0-4.7-2.1-4.7-4.7v-36c0-2.6,2.1-4.7,4.7-4.7h9.4
+	C73.3,194.1,75.4,196.2,75.4,198.8z"/>
+<line stroke="#050505" stroke-miterlimit="10" x1="50.1" y1="246.1" x2="50.1" y2="140.5"/>
+<rect x="56.2" y="176" fill="none" width="19.6" height="17"/>
+<text transform="matrix(1 0 0 1 56.2438 186.8374)" font-family="'MyriadPro-Regular'" font-size="13">46k</text>
+<rect x="133.2" y="165" fill="none" width="19.6" height="17"/>
+<text transform="matrix(1 0 0 1 133.2438 175.8374)" font-family="'MyriadPro-Regular'" font-size="13">50k</text>
+<text transform="matrix(1 0 0 1 44.6927 120.7285)" font-family="'MyriadPro-Regular'" font-size="13">Number of TW Jobs (US)</text>
+<g>
+	<rect x="50.2" y="253.3" fill="none" width="31.8" height="17"/>
+	<text transform="matrix(1 0 0 1 50.1981 264.1803)" font-family="'MyriadPro-Regular'" font-size="13">2012</text>
+</g>
+<g>
+	<rect x="125.6" y="253.3" fill="none" width="29.8" height="17"/>
+	<text transform="matrix(1 0 0 1 125.6413 264.1803)" font-family="'MyriadPro-Regular'" font-size="13">2016</text>
+</g>
+<line fill="none" stroke="#050505" stroke-miterlimit="10" x1="50.1" y1="246.1" x2="152.8" y2="246.1"/>
+<text transform="matrix(1 0 0 1 211.7251 120.7286)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="13">Job growth compared to </tspan><tspan x="0" y="15.6" font-family="'MyriadPro-Regular'" font-size="13">software developers</tspan></text>
+<path d="M232,219.2h20.7v23.1H232V219.2z M231,244h22.7c0.6,0,1-0.4,1-0.8v-24.8c0-0.5-0.4-0.8-1-0.8H231c-0.6,0-1,0.4-1,0.8v24.8
+	C230,243.6,230.4,244,231,244z"/>
+<path d="M259.6,207.4h20.7l0,34.7h-20.7L259.6,207.4z M257.6,243.1c0,0.5,0.4,0.9,1,0.9h22.7c0.6,0,1-0.4,1-0.9l0-36.6
+	c0-0.5-0.4-0.9-1-0.9h-22.7c-0.6,0-1,0.4-1,0.9L257.6,243.1z"/>
+<path d="M308,241.3h-20.7v-65.6H308V241.3z M309,173h-22.7c-0.6,0-1,0.6-1,1.4v68.3c0,0.8,0.4,1.4,1,1.4H309c0.6,0,1-0.6,1-1.4
+	v-68.3C310,173.6,309.6,173,309,173z"/>
+<path d="M252.7,200.3c0,2.5-0.9,4.8-2.4,6.6c-0.5-2.1-1.9-3.9-3.7-5c1-1,1.6-2.4,1.6-3.9c0-3.1-2.5-5.7-5.7-5.7
+	c-3.1,0-5.7,2.5-5.7,5.7c0,1.4,0.6,2.8,1.5,3.8c-2,1.1-3.4,3-3.9,5.1c-1.5-1.8-2.4-4.1-2.4-6.6c0-5.7,4.6-10.3,10.3-10.3
+	C248.1,190,252.7,194.6,252.7,200.3L252.7,200.3z M236.2,208.6c0.1-2.6,1.8-4.8,4.3-5.6c0.4-0.1,0.7-0.5,0.7-0.9
+	c0-0.4-0.2-0.8-0.5-1c-1.2-0.6-1.9-1.9-1.9-3.2c0-2,1.6-3.7,3.7-3.7c2,0,3.7,1.6,3.7,3.7c0,1.4-0.8,2.6-2,3.3
+	c-0.4,0.2-0.6,0.6-0.5,1c0,0.4,0.3,0.7,0.7,0.9c2.4,0.8,4.1,3,4.2,5.5c-1.7,1.3-3.8,2-6.1,2C240.1,210.7,237.9,209.9,236.2,208.6
+	L236.2,208.6z M230,200.3c0,6.8,5.5,12.3,12.3,12.3s12.3-5.5,12.3-12.3c0-6.8-5.5-12.3-12.3-12.3C235.6,188,230,193.5,230,200.3z"/>
+<path d="M270,180c5.7,0,10.3,4.6,10.3,10.3c0,2.5-0.9,4.8-2.4,6.6c-0.5-2.1-1.9-3.9-3.7-5c1-1,1.6-2.4,1.6-3.9
+	c0-3.1-2.5-5.7-5.7-5.7c-3.1,0-5.7,2.5-5.7,5.7c0,1.4,0.6,2.8,1.5,3.8c-2,1.1-3.4,3-3.9,5.1c-1.5-1.8-2.4-4.1-2.4-6.6
+	C259.7,184.6,264.3,180,270,180L270,180z M263.9,198.6c0.1-2.6,1.8-4.8,4.3-5.6c0.4-0.1,0.7-0.5,0.7-0.9c0-0.4-0.2-0.8-0.5-1
+	c-1.2-0.6-1.9-1.9-1.9-3.2c0-2,1.6-3.7,3.7-3.7s3.7,1.6,3.7,3.7c0,1.4-0.8,2.6-2,3.3c-0.4,0.2-0.6,0.6-0.5,1c0,0.4,0.3,0.7,0.7,0.9
+	c2.4,0.8,4.1,3,4.2,5.5c-1.7,1.3-3.8,2-6.1,2C267.7,200.7,265.6,199.9,263.9,198.6L263.9,198.6z M270,202.7
+	c6.8,0,12.3-5.5,12.3-12.3c0-6.8-5.5-12.3-12.3-12.3c-6.8,0-12.3,5.5-12.3,12.3C257.7,197.1,263.2,202.7,270,202.7z"/>
+<path d="M297.6,147.6c5.7,0,10.3,4.6,10.3,10.3c0,2.5-0.9,4.8-2.4,6.6c-0.5-2.1-1.9-3.9-3.7-5c1-1,1.6-2.4,1.6-3.9
+	c0-3.1-2.5-5.7-5.7-5.7s-5.7,2.5-5.7,5.7c0,1.4,0.6,2.8,1.5,3.8c-2,1.1-3.4,3-3.9,5.1c-1.5-1.8-2.4-4.1-2.4-6.6
+	C287.3,152.3,291.9,147.6,297.6,147.6L297.6,147.6z M291.5,166.2c0.1-2.6,1.8-4.8,4.3-5.6c0.4-0.1,0.7-0.5,0.7-0.9
+	c0-0.4-0.2-0.8-0.5-1c-1.2-0.6-1.9-1.9-1.9-3.2c0-2,1.6-3.7,3.7-3.7c2,0,3.7,1.6,3.7,3.7c0,1.4-0.8,2.6-2,3.3
+	c-0.4,0.2-0.6,0.6-0.5,1c0,0.4,0.3,0.7,0.7,0.9c2.4,0.8,4.1,3,4.2,5.5c-1.7,1.3-3.8,2-6.1,2C295.3,168.3,293.2,167.5,291.5,166.2
+	L291.5,166.2z M297.6,170.3c6.8,0,12.3-5.5,12.3-12.3c0-6.8-5.5-12.3-12.3-12.3c-6.8,0-12.3,5.5-12.3,12.3
+	C285.3,164.8,290.8,170.3,297.6,170.3z"/>
+<text transform="matrix(1 0 0 1 227.36 261.2968)" font-family="'MyriadPro-Regular'" font-size="13">Avg</text>
+<text transform="matrix(1 0 0 1 257.668 261.2969)" font-family="'MyriadPro-Regular'" font-size="13">TW</text>
+<text transform="matrix(1 0 0 1 289.668 261.2965)" font-family="'MyriadPro-Regular'" font-size="13">SD</text>
+<text transform="matrix(1 0 0 1 288.6684 202.6678)" font-family="'MyriadPro-Regular'" font-size="10">24%</text>
+<text transform="matrix(1 0 0 1 235.7621 231.7907)" font-family="'MyriadPro-Regular'" font-size="10">7%</text>
+<text transform="matrix(1 0 0 1 261.668 224.7907)" font-family="'MyriadPro-Regular'" font-size="10">11%</text>
+<text transform="matrix(1 0 0 1 363.5972 162.9563)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">“... Job opportunities, </tspan><tspan x="108" y="0" font-family="'MyriadPro-Bold'" font-size="12">especially </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Bold'" font-size="12">for applicants with technical skills</tspan><tspan x="180.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">, </tspan><tspan x="0" y="28.8" font-family="'MyriadPro-Regular'" font-size="12">are expected to be good.”</tspan></text>
+<text transform="matrix(1 0 0 1 375.3315 120.7285)" font-family="'MyriadPro-Regular'" font-size="13">BLS on causes for growth: </text>
+</svg>
