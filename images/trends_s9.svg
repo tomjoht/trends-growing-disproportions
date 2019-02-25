@@ -12,7 +12,7 @@
 	<text transform="matrix(0.9804 0 0 1 256.2309 309.4785)" font-family="'ArialMT'" font-size="11px">22%</text>
 </g>
 <text transform="matrix(0.9804 0 0 1 82.3091 295.6054)" font-family="'ArialMT'" font-size="11px">4%</text>
-<text transform="matrix(0.9804 0 0 1 105.9074 193.4745)" font-family="'ArialMT'" font-size="9.7143px">19%</text>
+<text transform="matrix(0.9804 0 0 1 105.9074 193.4745)" font-family="'ArialMT'" font-size="9.7142px">19%</text>
 <text transform="matrix(0.9804 0 0 1 83.9721 243.2652)" font-family="'ArialMT'" font-size="11px">9%</text>
 <g>
 	<text transform="matrix(0.9804 0 0 1 248.8251 223.289)" font-family="'ArialMT'" font-size="11px">Agree</text>
@@ -8319,6 +8319,6 @@ ITIyElevXsXZs2cRHByMR48eyTNhHBwczBwxun179hkzNkmpRIAIEAEiQASIABEgAkSACBABIkAE
 iAARIAJEgAgQASJABIgAESACWSHgkBUl0iECRIAIEAEiQASIABEgAkSACBABIkAEiAARIAJEgAgQ
 ASJABIgAEcicwP8BANt3PQczDqEAAAAASUVORK5CYII=" transform="matrix(0.123 0 0 0.123 311.9352 89)">
 </image>
-<path fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M171.3,301.6c4.3,9,12.7,16,22.4,18.5
+<path fill="none" stroke="#484848" stroke-width="0.5" stroke-miterlimit="10" d="M171.3,301.6c4.3,9,12.7,16,22.4,18.5
 	c9.7,2.5,20.4,0.6,28.6-5.1c4.7-3.3,8.5-7.7,13-11.3"/>
 </svg>
