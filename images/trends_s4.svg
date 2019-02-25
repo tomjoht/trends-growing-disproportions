@@ -14,9 +14,9 @@
 	C73.3,226.3,75.4,226.9,75.4,227.6z"/>
 <line stroke="#050505" stroke-miterlimit="10" x1="50.1" y1="246.1" x2="50.1" y2="140.5"/>
 <rect x="54.7" y="209.8" fill="none" width="24.2" height="17"/>
-<text transform="matrix(1 0 0 1 54.7402 220.9878)" font-family="'ArialMT'" font-size="13px">50k</text>
-<rect x="130.8" y="207.8" fill="none" width="19.6" height="17"/>
-<text transform="matrix(1 0 0 1 130.7507 218.9879)" font-family="'ArialMT'" font-size="13px">52</text>
+<text transform="matrix(1 0 0 1 54.7402 220.1299)" font-family="'ArialMT'" font-size="12px">50k</text>
+<rect x="130.8" y="207.8" fill="none" width="22.1" height="17"/>
+<text transform="matrix(1 0 0 1 130.7507 218.13)" font-family="'ArialMT'" font-size="12px">52k</text>
 <text transform="matrix(1 0 0 1 44.6931 120.7286)" font-family="'ArialMT'" font-size="13px">Technical Writer Jobs</text>
 <g>
 	<rect x="50.2" y="253.3" fill="none" width="31.8" height="17"/>
@@ -67,7 +67,7 @@
 	<text transform="matrix(1 0 0 1 385.1778 224.7576)" font-family="'ArialMT'" font-size="10px">11%</text>
 </g>
 <rect x="466.9" y="146.9" fill="none" width="86.5" height="280.4"/>
-<text transform="matrix(1 0 0 1 466.9421 157.1921)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="12px">“... Job opportu</tspan><tspan x="80.7" y="0" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="14.4" font-family="'ArialMT'" font-size="12px">nities, especial</tspan><tspan x="78.7" y="14.4" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="12px">ly  for appli</tspan><tspan x="58" y="28.8" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="43.2" font-family="'ArialMT'" font-size="12px">cants with </tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="12px">technical skills, </tspan><tspan x="0" y="72" font-family="'ArialMT'" font-size="12px">are expected to </tspan><tspan x="0" y="86.4" font-family="'ArialMT'" font-size="12px">be good.” </tspan><tspan x="0" y="100.8" font-family="'ArialMT'" font-size="12px">-- BLS</tspan></text>
+<text transform="matrix(1 0 0 1 466.9421 157.1921)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="12px">“... Job opportu</tspan><tspan x="80.7" y="0" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="14.4" font-family="'ArialMT'" font-size="12px">nities, especial</tspan><tspan x="78.7" y="14.4" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="12px">ly  for appli</tspan><tspan x="58" y="28.8" font-family="'ArialMT'" font-size="12px">-</tspan><tspan x="0" y="43.2" font-family="'ArialMT'" font-size="12px">cants with </tspan><tspan x="0" y="57.6" font-family="'ArialMT'" font-size="12px">technical skills, </tspan><tspan x="0" y="72" font-family="'ArialMT'" font-size="12px">are expected to </tspan><tspan x="0" y="86.4" font-family="'ArialMT'" font-size="12px">be good.” </tspan></text>
 <path fill="#8D97CC" d="M243,193.6v42.5c0,1.9-2.1,3.5-4.7,3.5H229c-2.6,0-4.7-1.6-4.7-3.5v-42.5c0-1.9,2.1-3.5,4.7-3.5h9.4
 	C240.9,190.1,243,191.7,243,193.6z"/>
 <path fill="#6F7FBE" d="M267.8,180.8v55.5c0,1.8-2.1,3.3-4.7,3.3h-9.4c-2.6,0-4.7-1.5-4.7-3.3v-55.5c0-1.8,2.1-3.3,4.7-3.3h9.4
@@ -78,9 +78,9 @@
 	C216.1,201.7,218.2,203.4,218.2,205.6z"/>
 <line stroke="#050505" stroke-miterlimit="10" x1="192.8" y1="246.2" x2="192.8" y2="140.6"/>
 <rect x="196.1" y="183" fill="none" width="31.6" height="17"/>
-<text transform="matrix(1 0 0 1 196.1374 194.1367)" font-family="'ArialMT'" font-size="13px">913k</text>
-<rect x="265.4" y="142.8" fill="none" width="35.7" height="17"/>
-<text transform="matrix(1 0 0 1 265.3974 153.9882)" font-family="'ArialMT'" font-size="13px">1,256</text>
+<text transform="matrix(1 0 0 1 196.1374 193.2788)" font-family="'ArialMT'" font-size="12px">913k</text>
+<rect x="265.4" y="142.8" fill="none" width="43.6" height="17"/>
+<text transform="matrix(1 0 0 1 265.3965 153.1303)" font-family="'ArialMT'" font-size="12px">1,256k</text>
 <text transform="matrix(1 0 0 1 187.4145 120.8208)" font-family="'ArialMT'" font-size="13px">Software Developer Jobs</text>
 <g>
 	<rect x="192.9" y="253.4" fill="none" width="31.8" height="17"/>
